@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Bberry13.github.io/rsschool-cv/cv
