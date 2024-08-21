@@ -20,3 +20,9 @@ I really liked this area, we were aimed at the European market, but global circu
 It was a strong blow to me and was temporarily decided to return to the banking sector, because everything is easy for me there and you can quickly restore your savings. 
 
 Since childhood, I have been attracted to computers, but I only figured out the assembly of PCs and components, now I want to move to a new level for myself and open the gates to the world of IT!
+
+## **Skills**
+* HTML
+* CSS
+* GIT / GITHUB
+* VS CODE
