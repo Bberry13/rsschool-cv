@@ -6,6 +6,7 @@
 * MAIL: **chernichkin.m1ke@mail.ru**
 * TG: **@Insanityofcat**
 * Discord: **Mikhail Chernichkin (@Bberry13)**
+* Github: **[Bberry_13](https://github.com/Bberry13)**
 
 ## **ABOUT ME**
 I started my career in the banking sector, in the opinion of my management, I had good success and I was going to be promoted, but for myself I understand that this area is not close to me. 
